@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Randysalrk
-- 👀 I’m interested in coding (Java and Guitar code also 😂 )
+- 👀 I’m interested in coding (Java)
 - 🌱 I’m currently studying for Higher National Diploma in Information Technology 
 - 💞️ I’m looking to collaborate on a Java project
 - 📫 How to reach me rangikalahirusa@gmail.com
