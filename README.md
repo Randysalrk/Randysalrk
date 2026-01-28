@@ -1,11 +1,6 @@
-<img align="right" width="360"
+<img align="left" width="360"
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&width=360&lines=Hi+%F0%9F%91%8B!;My+name+is+Randy.;Software+Dev+%26+Graphic+Designer;From+Sri+Lanka" />
 
-<h2 align="left">
-  Hi 👋!,<br>
-  My name is Randy.<br>
-  I'm a Software Developer & Graphic Designer from Sri Lanka 🇱🇰
-</h2>
 
 
 ###
