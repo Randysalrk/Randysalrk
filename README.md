@@ -56,11 +56,12 @@ Currently working on enterprise-grade systems and developing internal digital so
 
 <h3 align="left">📚 Currently Learning</h3>
 
-<ul>
-  <li>Machine Learning & Model Deployment</li>
-  <li>Power BI, DAX & Data Analytics</li>
-  <li>System Design & Secure Web Applications</li>
-</ul>
+<div align="left">
+  🅰️ <b>Angular</b><br>
+  🔗 <b>RESTful API Integration</b><br>
+  🧱 <b>ASP.NET Core MVC Architecture</b>
+</div>
+
 
 ###
 
