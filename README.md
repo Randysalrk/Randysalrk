@@ -82,4 +82,4 @@ Currently working on enterprise-grade systems and developing internal digital so
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Randysalrk/Randysalrk/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Randysalrk/Randysalrk/output/snake.svg" alt="Snake animation" />
