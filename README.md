@@ -9,9 +9,10 @@ I'm a Software Developer & Graphic Designer from Sri Lanka <img width="20" heigh
 
 <p align="left">
 I build real-world systems using <b>ASP.NET Web Forms</b>, <b>C#</b>, and <b>SQL Server</b>,  
-and I’m actively transitioning into <b>Data Science & Machine Learning Engineering</b>.  
-Currently working on enterprise-grade systems like <b>OTDesk</b> and internal digital solutions.
+and I’m actively transitioning into <b>full-stack development with Angular and ASP.NET MVC architecture</b>.  
+Currently working on enterprise-grade systems and developing internal digital solutions for <b>MAS Holdings</b>.
 </p>
+
 
 ###
 
@@ -35,8 +36,8 @@ Currently working on enterprise-grade systems like <b>OTDesk</b> and internal di
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
