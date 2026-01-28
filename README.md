@@ -26,7 +26,8 @@ Currently working on enterprise-grade systems and developing internal digital so
 ###
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" width="220" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" />
+
 
 ###
 
