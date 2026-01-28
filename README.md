@@ -26,7 +26,7 @@ Currently working on enterprise-grade systems and developing internal digital so
 ###
 
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" />
+<img align="right" src="https://readme-typing-svg.herokuapp.com?color=BD93F9&lines=Full+Stack+Developer;Angular+%2B+ASP.NET+Core;Building+Enterprise+Apps" />
 
 
 ###
