@@ -1,7 +1,7 @@
 <h2 align="left">
-Hi 👋!,
-My name is Randy .
-I'm a Software Developer, Graphic Designer from Sri Lanka <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9d35b985-4032-4c99-a2a3-9493060ec487" />
+Hi 👋!,<br>
+My name is Randy.<br>
+I'm a Software Developer, Graphic Designer from Sri Lanka <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9d35b985-4032-4c99-a2a3-9493060ec487" /><br>
 
 </h2>
 
