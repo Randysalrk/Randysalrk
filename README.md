@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! My name is Randy and I'm a Software Developer, Graphic Designer from Sri Lanka <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9d35b985-4032-4c99-a2a3-9493060ec487" />
+Hi 👋! My name is Randy and I'm a Software Developer, Graphic Designer from Sri Lanka <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9d35b985-4032-4c99-a2a3-9493060ec487" />
 
 </h2>
 
