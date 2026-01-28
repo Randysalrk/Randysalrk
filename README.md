@@ -22,6 +22,7 @@ Currently working on enterprise-grade systems and developing internal digital so
 </div>
 
 ###
+<img width="1879" height="932" alt="image" src="https://github.com/user-attachments/assets/798a8f85-f650-4d9c-ab78-4ed2f71ec216" />
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
