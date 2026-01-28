@@ -15,17 +15,20 @@ Currently working on enterprise-grade systems and developing internal digital so
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Randysalrk&show_icons=true&include_all_commits=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Randysalrk&layout=compact&langs_count=6&theme=dracula" height="150" />
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Randysalrk&theme=dracula" />
+<!-- <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Randysalrk&theme=dracula" /> -->
 
 </div>
 
 ###
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ5N3E0aG1zYjhzZjM3NDA3ZzVhc3h2ZWFsa2cxeHY5cTEwNW0wdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding animation" />
 
 <img align="right" src="https://readme-typing-svg.herokuapp.com?color=BD93F9&lines=Full+Stack+Developer;Angular+%2B+ASP.NET+Core;Building+Enterprise+Apps" />
 
-<img align="right" src="https://readme-typing-svg.herokuapp.com?color=BD93F9&lines=Full+Stack+Developer;Angular+%2B+ASP.NET+Core;Building+Enterprise+Apps" />
+<!-- <img align="right" src="https://readme-typing-svg.herokuapp.com?color=BD93F9&lines=Full+Stack+Developer;Angular+%2B+ASP.NET+Core;Building+Enterprise+Apps" /> -->
+
 
 ###
 
