@@ -16,7 +16,8 @@ Currently working on enterprise-grade systems and developing internal digital so
   
   <img src="https://github-readme-stats.vercel.app/api?username=Randysalrk&show_icons=true&include_all_commits=true&theme=dracula" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Randysalrk&layout=compact&langs_count=6&theme=dracula" height="150" />
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Randysalrk&theme=dracula" />
+
 </div>
 
 ###
