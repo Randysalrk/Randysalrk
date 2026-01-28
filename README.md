@@ -1,5 +1,6 @@
 <h2 align="left">
-Hi 👋! My name is Dev and I'm a Software Engineer & Data Enthusiast from Sri Lanka 🇱🇰
+Hi 👋! My name is Randy and I'm a Software Developer, Graphic Designer from Sri Lanka <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d35b985-4032-4c99-a2a3-9493060ec487" />
+
 </h2>
 
 ###
