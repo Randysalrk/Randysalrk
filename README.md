@@ -88,6 +88,7 @@ Currently working on enterprise-grade systems and developing internal digital so
 <img src="https://raw.githubusercontent.com/Randysalrk/Randysalrk/output/snake.svg" alt="Snake animation" />
 
 ###
-<img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7 (1)" src="https://github.com/user-attachments/assets/5e7f5555-ce00-4d4c-8659-70300687d0eb" />
+
+<img width="1886" height="376" alt="git" src="https://github.com/user-attachments/assets/c0527786-1ae5-4d8d-8edc-923a4f0100bd" />
 
 
