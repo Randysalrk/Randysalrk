@@ -12,9 +12,12 @@ Currently working on enterprise-grade systems and developing internal digital so
 
 ###
 
-<div align="center">
+<div align="Left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Randysalrk&show_icons=true&include_all_commits=true&theme=dracula" />
+ 
+ 
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Randysalrk&show_icons=true&include_all_commits=true&theme=dracula" />-->
+ <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Randysalrk&theme=radical&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Randysalrk&layout=compact&langs_count=6&theme=dracula" height="150" />
 
 <!-- <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Randysalrk&theme=dracula" /> -->
