@@ -70,13 +70,13 @@ Currently working on enterprise-grade systems and developing internal digital so
 <h3 align="left">🌐 Connect with Me</h3>
 
 <div align="left">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:rangikalahirusa@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Randysalrk">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -86,4 +86,8 @@ Currently working on enterprise-grade systems and developing internal digital so
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Randysalrk/Randysalrk/output/snake.svg" alt="Snake animation" />
+
+###
+<img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7 (1)" src="https://github.com/user-attachments/assets/5e7f5555-ce00-4d4c-8659-70300687d0eb" />
+
 
