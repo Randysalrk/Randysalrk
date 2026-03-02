@@ -76,7 +76,7 @@ Currently working on enterprise-grade systems and developing internal digital so
   <a href="mailto:rangikalahirusa@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lahiru-r-senarath-arachchige-10208a268/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
   </a>
   <a href="https://github.com/Randysalrk">
